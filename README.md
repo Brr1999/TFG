@@ -13,3 +13,5 @@ Operations are located in the next list:
 If you would like to try this repository, you need to install the Xampp aplication in order to have your own database.
 It is managed via phpmyadmin and the code of the app normally used is php. In this case, I rather used python's module Flask because I'm more fluent with it.
 Hope you enjoy it.
+
+
